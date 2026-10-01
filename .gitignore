@@ -1,0 +1,9 @@
+vendor/
+.env
+node_modules/
+storage/
+public/storage/
+migrations-backup/
+composer.lock
+package-lock.json
+public/robots.txt
